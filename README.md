@@ -1,7 +1,7 @@
 # Bouncing Ball with raylib
 
 This project demonstrates a simple bouncing ball animation using the `raylib` library in C.
-![screen](https://github.com/Mahmoud-Khaled-FS/bouncing_ball_raylib/screenshots/2024-07-28_12-22.png)
+![screen](https://github.com/Mahmoud-Khaled-FS/bouncing_ball_raylib/blob/main/screenshots/2024-07-28_12-22.png)
 
 ## Introduction
 
